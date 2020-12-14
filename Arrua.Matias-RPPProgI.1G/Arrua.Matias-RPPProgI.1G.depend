@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607984845 source:c:\users\mati\desktop\arrua.matias-rppprogi.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
